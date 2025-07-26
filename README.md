@@ -37,7 +37,7 @@ The system predicts both **emotion categories** (`anger`, `fear`, `joy`, `love`,
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/sentiment-emotion-analysis.git
+git clone https://github.com/saparya05/Employee-Management-System
 cd sentiment-emotion-analysis
 ```
 2. **Activate Virtual Environment**
